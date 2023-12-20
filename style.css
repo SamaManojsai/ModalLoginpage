@@ -1,0 +1,12 @@
+body{
+    background: url(img3.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    margin-top: 145px;
+}
+img{
+    width: 150px;
+    height: 180px;
+    margin: auto;
+}
